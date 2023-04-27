@@ -1,0 +1,42 @@
+.root {
+  @apply flex gap-10 px-8 h-full items-center;
+
+  .item {
+    @apply relative;
+  }
+
+  .item_link {
+    @apply text-grey text-[16px];
+
+    &:hover {
+      @apply text-white;
+    }
+
+    &::after {
+      content: '';
+      @apply absolute left-0 -bottom-2 h-0.5 w-0 bg-white transition-all duration-300;
+    }
+
+    &:hover::after {
+      @apply w-full;
+    }
+  }
+
+  @media (max-width: 945px) {
+    @apply h-[50px] ml-3;
+  }
+
+  @media (max-width: 499px) {
+    @apply ml-0;
+  }
+
+  @media (max-width: 420px) {
+    .item_link {
+      @apply text-xs;
+
+      &::after {
+        @apply -bottom-1 h-[1px];
+      }
+    }
+  }
+}

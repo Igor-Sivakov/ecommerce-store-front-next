@@ -1,0 +1,141 @@
+.wrapper {
+  @apply relative w-[180px];
+}
+
+.root {
+  @apply bg-black w-[180px] h-[330px] flex flex-col items-center  pt-3 pb-5 px-3 cursor-pointer;
+
+  .image {
+    @apply w-[150px] h-[200px];
+    img {
+      @apply w-[150px] h-[200px];
+    }
+  }
+
+  .heading {
+    @apply text-grey mt-4 h-[42px] w-[150px] font-medium text-[14px];
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .price {
+    @apply mt-2 text-sm w-[150px];
+
+    span {
+      @apply text-dark-grey;
+    }
+  }
+}
+
+.active {
+  @apply w-[320px] h-fit pt-6 pb-4 z-10 absolute -top-32 -left-[65px] shadow-xl shadow-dark-grey transition-all duration-700 cursor-default;
+  background-image: linear-gradient(to bottom, #5d5d5dd6, #090909 50%),
+    url('../../../assets//img/patternBG.jpg');
+  animation-name: animated-item;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+  animation-duration: 0.4s;
+
+  @keyframes animated-item {
+    0% {
+      opacity: 0.2;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  .image_box {
+    @apply flex;
+
+    .arrow_btn {
+      @apply flex items-center text-[28px] px-4;
+
+      svg {
+        @apply fill-grey cursor-pointer;
+
+        &:hover {
+          @apply fill-white;
+        }
+      }
+    }
+    .image {
+      @apply w-[180px] h-[240px] relative;
+    }
+  }
+
+  .heading {
+    @apply text-white text-lg h-auto w-[260px] mx-6 mt-4 font-bold leading-8;
+  }
+
+  .description {
+    @apply text-grey text-[11px] w-[260px]  mt-2 mb-1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .price {
+    @apply m-0 flex justify-center;
+    span {
+      @apply text-grey;
+    }
+  }
+
+  .add_btn {
+    @apply bg-lightest-black py-2 mt-3 w-[260px] h-10 text-hover-red text-sm font-semibold tracking-widest uppercase cursor-pointer;
+
+    &:hover {
+      @apply bg-hover-red text-white;
+    }
+
+    &:active {
+      @apply translate-y-[1px];
+    }
+  }
+
+  .details {
+    @apply text-dark-grey text-xs relative mt-3 cursor-pointer;
+
+    &:hover {
+      @apply text-white;
+    }
+
+    &::after {
+      content: '';
+      @apply absolute left-0 -bottom-1 h-[1px] w-0 bg-white transition-all duration-300;
+    }
+
+    &:hover::after {
+      @apply w-full;
+    }
+  }
+
+  @media (max-width: 1250px) {
+    @apply w-[280px] -left-[45px];
+
+    .image_box {
+      .arrow_btn {
+        @apply text-[24px];
+      }
+      .image {
+        @apply w-[165px] h-[215px];
+      }
+    }
+
+    .heading {
+      @apply text-base  w-[220px] mx-4 mt-3 leading-6;
+    }
+
+    .description {
+      @apply text-[10px] w-[240px]  mt-2 mb-1;
+    }
+
+    .add_btn {
+      @apply mt-2 w-[240px] text-xs;
+    }
+  }
+}

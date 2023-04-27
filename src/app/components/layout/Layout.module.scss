@@ -1,0 +1,17 @@
+.root {
+  @apply flex justify-center bg-black w-full;
+
+  .wrapper {
+    @apply flex justify-center bg-black max-w-[1440px];
+
+    main {
+      @apply pt-7 pl-2 pr-1 w-full min-w-[370px] relative;
+    }
+
+    @media (max-width: 609px) {
+      main {
+        @apply pt-[24px] pl-1 pr-0.5;
+      }
+    }
+  }
+}

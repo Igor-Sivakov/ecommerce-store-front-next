@@ -1,0 +1,72 @@
+.body {
+  @apply bg-soft-black relative flex min-w-[370px];
+
+  .person_data {
+    @apply w-[65%] pl-7 flex mt-2;
+  }
+
+  .edit_btn {
+    @apply text-grey text-xs tracking-widest -top-3 right-2 relative flex items-center h-fit;
+
+    svg {
+      @apply fill-grey;
+    }
+
+    &:hover {
+      @apply text-white;
+
+      svg {
+        @apply fill-white;
+      }
+    }
+
+    &::after {
+      content: '';
+      @apply absolute left-0 -bottom-1 h-[1px] w-0 bg-white transition-all duration-300;
+    }
+
+    &:hover::after {
+      @apply w-full;
+    }
+  }
+
+  .card_data {
+    @apply flex max-w-[35%] w-full items-center justify-center ml-2 mt-2 mb-8;
+  }
+
+  @media (max-width: 1199px) {
+    .person_data {
+      @apply pl-0;
+    }
+
+    .card_data {
+      @apply ml-0;
+    }
+  }
+
+  @media (max-width: 1051px) {
+    @apply block;
+
+    .person_data {
+      @apply w-full;
+    }
+
+    .card_data {
+      @apply max-w-full my-6;
+    }
+  }
+
+  @media (max-width: 699px) {
+    .person_data {
+      @apply block;
+    }
+
+    .card_data {
+      @apply justify-start ml-0;
+    }
+
+    .edit_btn {
+      @apply absolute top-1 right-5;
+    }
+  }
+}

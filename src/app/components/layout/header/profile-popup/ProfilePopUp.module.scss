@@ -1,0 +1,50 @@
+.root {
+  @apply absolute top-[60px] bg-soft-black z-30 opacity-0 w-[200px] overflow-hidden h-0;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-duration: 0.4s;
+
+  @media (max-width: 775px) {
+    @apply w-[180px];
+  }
+
+  &__open {
+    animation-name: animated-item-show;
+  }
+
+  &__close {
+    animation-name: animated-item-hide;
+  }
+
+  @keyframes animated-item-show {
+    0% {
+      height: 0;
+      opacity: 0;
+    }
+
+    100% {
+      height: 90px;
+      opacity: 0.9;
+    }
+  }
+
+  @keyframes animated-item-hide {
+    0% {
+      height: 90px;
+      opacity: 0.9;
+    }
+
+    100% {
+      height: 0;
+      opacity: 0;
+    }
+  }
+
+  .auth_link {
+    @apply text-grey  flex items-center justify-center py-2 text-sm uppercase tracking-[0.1em] transition-all duration-75;
+
+    &:hover {
+      @apply text-white bg-lightest-black border-x-[1px] border-white font-medium;
+    }
+  }
+}

@@ -1,0 +1,64 @@
+.root {
+  @apply flex bg-soft-black py-10;
+
+  .text_container {
+    @apply px-20 min-w-[250px] w-[60%];
+
+    span {
+      @apply text-white/50 font-medium text-xs;
+    }
+    h1 {
+      @apply text-white font-medium text-2xl mt-4 mb-5 leading-relaxed;
+    }
+    p {
+      @apply text-white/50 font-medium text-xs tracking-normal;
+    }
+  }
+
+  .image_button_container {
+    @apply flex justify-between w-[40%];
+
+    .image {
+      @apply w-full min-w-[100px];
+
+      img {
+        @apply w-full h-fit;
+      }
+    }
+
+    .button {
+      @apply mr-[30px] ml-[40px] flex justify-center cursor-pointer;
+    }
+  }
+
+  @media (max-width: 955px) {
+    .text {
+      @apply px-10;
+    }
+  }
+
+  @media (max-width: 575px) {
+    .text {
+      h1 {
+        @apply text-lg;
+      }
+      p {
+        @apply text-[10px];
+      }
+    }
+
+    .image_button_container {
+      @apply flex-col items-end;
+
+      .button {
+        @apply mt-6;
+      }
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .text {
+    @apply px-5;
+  }
+}

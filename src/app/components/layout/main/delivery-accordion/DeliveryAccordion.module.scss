@@ -1,0 +1,120 @@
+.root {
+  @apply h-[200px];
+
+  .accordion {
+    @apply mt-8 max-w-[450px] border-y-[1px] border-dark-grey pt-5;
+
+    .heading {
+      @apply flex justify-between cursor-pointer;
+
+      h5 {
+        @apply text-dark-grey text-sm font-medium;
+      }
+
+      svg {
+        @apply fill-dark-grey text-xl;
+      }
+
+      &:hover {
+        h5 {
+          @apply text-white;
+        }
+        svg {
+          @apply fill-white;
+        }
+      }
+    }
+
+    .content {
+      @apply overflow-hidden mt-5;
+      animation-name: animated-item-hide;
+      animation-timing-function: linear;
+      animation-fill-mode: forwards;
+      animation-duration: 0.4s;
+
+      &__show {
+        animation-name: animated-item-show;
+
+        &:last-child {
+          @apply mb-5;
+        }
+
+        @keyframes animated-item-show {
+          0% {
+            height: 0;
+          }
+
+          100% {
+            height: 120px;
+          }
+        }
+
+        @keyframes animated-item-hide {
+          0% {
+            height: 120px;
+          }
+
+          100% {
+            height: 0;
+          }
+        }
+      }
+
+      .item {
+        @apply flex justify-between py-2;
+
+        .item_title {
+          @apply flex;
+
+          svg {
+            @apply fill-grey text-xl;
+          }
+
+          span {
+            @apply text-grey text-sm ml-2;
+          }
+        }
+
+        .item_tariff {
+          @apply text-[#9f8c5d] font-medium text-sm;
+        }
+      }
+    }
+
+    @media (max-width: 499px) {
+      @apply mt-6 pt-3;
+
+      .heading {
+        h5 {
+          @apply text-[14px];
+        }
+
+        svg {
+          @apply text-lg;
+        }
+      }
+
+      .content {
+        &:last-child {
+          @apply mb-3;
+        }
+
+        .item {
+          .item_title {
+            svg {
+              @apply text-lg;
+            }
+
+            span {
+              @apply text-[14px];
+            }
+          }
+
+          .item_tariff {
+            @apply text-[14px];
+          }
+        }
+      }
+    }
+  }
+}

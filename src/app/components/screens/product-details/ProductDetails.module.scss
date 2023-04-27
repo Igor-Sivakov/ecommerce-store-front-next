@@ -1,0 +1,23 @@
+.root {
+  @apply pb-20 pt-10 px-2;
+
+  .product__container {
+    @apply flex mb-10 max-w-[1200px];
+  }
+
+  .carousel {
+    @apply px-10;
+  }
+
+  @media (max-width: 949px) {
+    @apply pb-16;
+
+    .product__container {
+      @apply block mb-2.5;
+    }
+
+    .carousel {
+      @apply px-8;
+    }
+  }
+}

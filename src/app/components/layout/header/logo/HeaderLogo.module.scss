@@ -1,0 +1,39 @@
+.root {
+  @apply flex items-center px-5;
+
+  .image {
+    @apply -mt-1 mb-1 -mr-1;
+  }
+
+  .logo_name_top {
+    @apply text-white font-light text-sm tracking-[0.13em];
+  }
+
+  .logo_name_bottom {
+    @apply text-dark-grey tracking-[0.4em] text-xs font-extralight;
+  }
+
+  @media (max-width: 1100px) {
+    @apply pl-0;
+  }
+
+  @media (max-width: 945px) {
+    @apply px-4;
+  }
+
+  @media (max-width: 499px) {
+    @apply pl-3 h-[70px];
+
+    .image {
+      @apply w-[60px];
+    }
+
+    .logo_name_top {
+      @apply text-xs;
+    }
+
+    .logo_name_bottom {
+      @apply text-[10px];
+    }
+  }
+}

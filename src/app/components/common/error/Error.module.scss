@@ -1,0 +1,64 @@
+.error_title {
+  @apply w-full h-[65vh] flex justify-center items-center;
+
+  p {
+    @apply text-grey mr-2;
+  }
+
+  svg {
+    @apply fill-grey text-xl;
+  }
+}
+
+.error_banner {
+  @apply absolute top-0 w-[99%] flex items-center justify-center opacity-0 bg-soft-black;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: both;
+  animation-duration: 0.8s;
+
+  h4 {
+    @apply text-soft-red py-[2.5px] h-full font-normal tracking-normal text-[14px];
+  }
+
+  &__hidden {
+    animation-name: banner-close;
+  }
+
+  &__showed {
+    animation-name: banner-open;
+  }
+
+  @keyframes banner-open {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes banner-close {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  @media (max-width: 1110px) {
+    @apply w-[98.5%];
+  }
+
+  @media (max-width: 799px) {
+    @apply w-[98%];
+  }
+
+  @media (max-width: 610px) {
+    @apply w-[98.5%];
+
+    h4 {
+      @apply text-[12px] py-[2px];
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.root {
+  @apply w-full h-full flex;
+
+  .image {
+    animation-name: animated-item;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    animation-duration: 0.3s;
+
+    @keyframes animated-item {
+      0% {
+        visibility: hidden;
+        width: 0px;
+      }
+      100% {
+        visibility: visible;
+        width: 100%;
+      }
+    }
+  }
+}

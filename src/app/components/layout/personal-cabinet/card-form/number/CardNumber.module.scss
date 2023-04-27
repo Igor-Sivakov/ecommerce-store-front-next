@@ -1,0 +1,27 @@
+.root {
+  @apply flex items-center flex-col relative top-[60px] h-[60px];
+
+  .number_inputs {
+    @apply flex gap-3 mb-1;
+
+    input {
+      @apply w-[70px] bg-soft-black text-white px-2 py-1 tracking-widest;
+    }
+  }
+}
+
+.error {
+  @apply text-xs leading-4 text-soft-red;
+}
+
+@media (max-width: 410px) {
+  .root {
+    .number_inputs {
+      @apply gap-2;
+    }
+  }
+
+  .error {
+    @apply text-[10px] leading-3;
+  }
+}

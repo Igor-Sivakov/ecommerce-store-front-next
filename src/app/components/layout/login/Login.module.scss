@@ -1,0 +1,73 @@
+.body {
+  @apply bg-soft-black flex flex-col items-center min-w-[370px];
+
+  .heading {
+    @apply text-white text-[38px] font-extrabold mb-[80px];
+  }
+
+  .form_container {
+    @apply flex w-[780px] mb-10;
+
+    .create_account_side {
+      @apply w-full max-w-[300px] border-l-[0.5px]  border-white p-[30px];
+
+      h4 {
+        @apply text-white text-[21px] font-bold tracking-wider mb-4;
+      }
+
+      p {
+        @apply text-[14px] text-dark-grey;
+      }
+
+      button {
+        @apply text-soft-black w-[160px] font-extrabold text-[14px] border border-white py-2 bg-white transition-all duration-300 mt-[187px];
+
+        &:hover {
+          @apply bg-soft-black text-white border-white;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 899px) {
+    .heading {
+      @apply mb-[60px];
+    }
+
+    .form_container {
+      @apply block w-[480px];
+
+      .create_account_side {
+        @apply border-none max-w-[480px];
+
+        button {
+          @apply mt-10 ml-[260px];
+        }
+      }
+    }
+  }
+
+  @media (max-width: 599px) {
+    .heading {
+      @apply text-[29px] mb-[10px];
+    }
+
+    .form_container {
+      @apply w-full max-w-[480px];
+
+      .create_account_side {
+        @apply max-w-[480px] px-0;
+
+        button {
+          @apply w-full ml-0;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 410px) {
+    .form_container {
+      @apply w-[340px];
+    }
+  }
+}

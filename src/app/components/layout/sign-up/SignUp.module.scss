@@ -1,0 +1,31 @@
+.body {
+  @apply bg-soft-black flex justify-center;
+
+  .form_container {
+    @apply max-w-[800px] w-full flex flex-col items-center mb-10 ml-[70px];
+
+    .heading {
+      @apply text-center;
+
+      h1 {
+        @apply text-white text-[38px] font-extrabold;
+      }
+
+      p {
+        @apply text-[15px] text-dark-grey tracking-normal mt-[20px] mb-[30px];
+      }
+    }
+  }
+
+  @media (max-width: 699px) {
+    .form_container {
+      @apply ml-0;
+    }
+  }
+
+  @media (max-width: 399px) {
+    .form_container {
+      @apply pl-8;
+    }
+  }
+}

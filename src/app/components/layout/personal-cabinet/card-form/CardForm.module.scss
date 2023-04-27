@@ -1,0 +1,84 @@
+.root {
+  @apply w-[350px] h-[220px] bg-lightest-black rounded-xl;
+
+  .cvv {
+    @apply relative flex flex-col items-end bottom-[25px] left-[198px] w-[135px];
+
+    label {
+      @apply block text-sm uppercase mr-[18px] text-grey;
+    }
+
+    input {
+      @apply block w-[55px] bg-soft-black text-white px-2 py-1;
+    }
+
+    .cvv_error {
+      @apply text-right;
+    }
+  }
+
+  .buttons {
+    @apply relative bottom-[192px] left-[17px] w-fit;
+
+    .submit {
+      @apply border-[1px] border-white py-[2px] px-[24px] transition-all duration-300;
+
+      svg {
+        @apply fill-white;
+      }
+
+      &:hover {
+        @apply bg-white;
+
+        svg {
+          @apply fill-[#008000];
+        }
+      }
+
+      &:active {
+        @apply translate-y-[1px];
+      }
+    }
+
+    .cancel {
+      @apply bg-[#b61c1c] ml-[14px] border-[1px] border-[#b61c1c] py-[1px] px-[24px] transition-all duration-300;
+
+      svg {
+        @apply text-[20px];
+        path {
+          @apply fill-lightest-black;
+        }
+      }
+
+      &:hover {
+        @apply bg-lightest-black;
+
+        svg {
+          path {
+            @apply fill-[#b61c1c];
+          }
+        }
+      }
+
+      &:active {
+        @apply translate-y-[1px];
+      }
+    }
+  }
+
+  .error {
+    @apply text-xs leading-4 text-soft-red;
+  }
+
+  @media (max-width: 410px) {
+    @apply w-[320px] h-[205px];
+
+    .cvv {
+      @apply bottom-[30px] left-[170px];
+    }
+
+    .error {
+      @apply text-[10px] leading-3;
+    }
+  }
+}

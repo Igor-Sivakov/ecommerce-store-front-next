@@ -1,0 +1,58 @@
+.root {
+  @apply flex h-full relative opacity-0;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-duration: 0.4s;
+
+  &__open {
+    animation-name: animated-item-show;
+  }
+
+  @keyframes animated-item-show {
+    0% {
+      width: 0;
+      opacity: 0;
+    }
+
+    100% {
+      width: 100%;
+      opacity: 1;
+    }
+  }
+
+  svg {
+    @apply absolute top-[29px] left-[12px] text-[24px];
+  }
+
+  input {
+    @apply w-full h-full py-1 pl-[45px] pr-[10px] text-sm bg-white;
+
+    &::-webkit-search-cancel-button {
+      @apply relative -right-[4px] w-[22px] h-[22px] rounded-[50em] transition-all duration-300;
+      -webkit-appearance: none;
+      background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/OOjs_UI_icon_close.svg/1024px-OOjs_UI_icon_close.svg.png)
+        no-repeat 50% 50%;
+      background-size: contain;
+      pointer-events: none;
+    }
+
+    &:focus::-webkit-search-cancel-button {
+      opacity: 0.3;
+      pointer-events: all;
+    }
+
+    &::-webkit-search-cancel-button:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+@media (max-width: 610px) {
+  .root {
+    @apply h-[65px];
+
+    svg {
+      @apply top-[22px];
+    }
+  }
+}

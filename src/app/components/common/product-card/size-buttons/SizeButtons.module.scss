@@ -1,0 +1,23 @@
+.root {
+  @apply flex gap-2 my-3;
+
+  .size_btn {
+    @apply bg-lightest-black text-sm text-hover-red w-8 h-7 cursor-pointer;
+
+    &:hover {
+      @apply bg-hover-red text-white;
+    }
+
+    &:active {
+      @apply translate-y-[1px];
+    }
+
+    &__chosen {
+      @apply bg-soft-red text-soft-black;
+
+      &:hover {
+        @apply bg-hover-red text-white;
+      }
+    }
+  }
+}

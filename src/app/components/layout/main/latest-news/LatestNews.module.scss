@@ -1,0 +1,31 @@
+.root {
+  @apply flex justify-between bg-soft-black py-10 h-full;
+
+  .text_container {
+    @apply px-10 w-80;
+    span {
+      @apply text-white/50 font-medium text-xs;
+    }
+    h1 {
+      @apply text-white font-medium text-2xl mt-4 mb-5 leading-relaxed;
+    }
+    p {
+      @apply text-white/50 font-medium text-xs tracking-normal;
+    }
+  }
+
+  @media (max-width: 575px) {
+    .text {
+      h1 {
+        @apply text-lg;
+      }
+      p {
+        @apply text-[10px];
+      }
+    }
+  }
+
+  .button {
+    @apply w-[100px] flex justify-center cursor-pointer;
+  }
+}

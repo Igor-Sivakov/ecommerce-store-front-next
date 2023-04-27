@@ -1,0 +1,33 @@
+.root {
+  @apply flex items-center justify-center h-full;
+
+  .container {
+    @apply flex items-center relative;
+
+    .profile_login {
+      @apply text-grey flex items-center transition-all duration-300 cursor-pointer capitalize;
+
+      svg {
+        @apply fill-grey text-[12px] ml-[5px] transition-all duration-300;
+      }
+
+      &:hover {
+        @apply text-[#fff];
+
+        svg {
+          @apply fill-[#fff];
+        }
+      }
+    }
+
+    p {
+      @apply text-dark-grey text-xs pl-2;
+    }
+  }
+
+  @media (max-width: 945px) {
+    .container {
+      @apply px-3;
+    }
+  }
+}

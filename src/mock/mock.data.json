@@ -1,0 +1,1517 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "createdAt": "2023-04-30T11:56:41.616Z",
+      "updatedAt": "2023-04-17T11:56:41.616Z",
+      "name": "Lorian cloth in black and white check with viscose",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "lorian-cloth-in-black-and-white-check-with-viscose",
+      "sizes": ["s", "m", "l"],
+      "price": 912,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_6ups-fl.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/2_52fp-d6.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/3_r7b1-dw.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 2,
+      "createdAt": "2023-04-29T11:56:41.617Z",
+      "updatedAt": "2023-04-17T11:56:41.617Z",
+      "name": "Lorian black A-line dress in viscose",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "lorian-black-a-line-dress-in-viscose",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1046,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_fdsy-nj.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/4_6l8v-ar.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/3_a2au-zz.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 3,
+      "createdAt": "2023-04-28T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Lorian cloth orange blue straight cut",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "lorian-cloth-orange-blue-straight-cut",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 978,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_gohh-3n.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/5_27s6-qg.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 4,
+      "createdAt": "2023-04-27T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Dark green Lorian cloth",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "dark-green-lorian-cloth",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1125,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_a70f-do.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_frvj-l6.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 5,
+      "createdAt": "2023-04-26T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Blue dress by Lorian",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "blue-dress-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 373,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/1_x3gx-un.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/5_ozyp-4b.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 6,
+      "createdAt": "2023-04-25T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Midnight dress with orange line by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "midnight-dress-with-orange-line-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 746,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_f3oh-8y.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/3_6rg0-t0.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 7,
+      "createdAt": "2023-04-24T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Orange-red dress with blue inserts by Lorian",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "orange-red-dress-with-blue-inserts-by-lorian",
+      "sizes": ["s", "l", "xl"],
+      "price": 288,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_wnbl-ur.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/3_9787-3d.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 8,
+      "createdAt": "2023-04-23T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Lorian cloth brown with asymmetrical waist",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "lorian-cloth-brown-with-asymmetrical-waist",
+      "sizes": ["s", "m", "xl"],
+      "price": 385,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_gab8-68.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/3_c5bu-ts.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 9,
+      "createdAt": "2023-04-22T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Cloth in red and white colors by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "cloth-in-red-and-white-colors-by-lorian",
+      "sizes": ["xs", "s", "m", "xl"],
+      "price": 679,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_16yv-gp.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_tlls-v7.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 10,
+      "createdAt": "2023-04-21T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Sleeveless blue cloth by Lorian",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "sleeveless-blue-cloth-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l"],
+      "price": 345,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/1_oznt-ra.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/2_32br-bo.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 11,
+      "createdAt": "2023-04-20T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Midnight dress with orange-red line by Lorian",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "midnight-dress-with-orange-red-line-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 683,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_f3oh-8y.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/3_6rg0-t0.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 12,
+      "createdAt": "2023-04-19T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Cloth in black and white check with viscose by Lorian",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "slug": "cloth-in-black-and-white-check-with-viscose-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "xl"],
+      "price": 989,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_6ups-fl.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/2_52fp-d6.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/3_r7b1-dw.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 13,
+      "createdAt": "2023-04-18T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Black A-line dress in viscose by Lorian ",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "black-a-line-dress-in-viscose-by-lorian-",
+      "sizes": ["xs", "s", "m", "xl"],
+      "price": 1252,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_fdsy-nj.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/4_6l8v-ar.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/3_a2au-zz.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 14,
+      "createdAt": "2023-04-17T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Cloth orange blue straight cut by Lorian",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "cloth-orange-blue-straight-cut-by-lorian",
+      "sizes": ["s", "m", "l"],
+      "price": 1055,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_gohh-3n.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/5_27s6-qg.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 15,
+      "createdAt": "2023-04-16T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Cloth in red-orange and white colors by Lorian",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "cloth-in-red-orange-and-white-colors-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 865,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_16yv-gp.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_tlls-v7.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 16,
+      "createdAt": "2023-04-15T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Cloth brown with asymmetrical waist by Lorian",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "cloth-brown-with-asymmetrical-waist-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 456,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4106/1_gab8-68.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/3_c5bu-ts.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 17,
+      "createdAt": "2023-04-14T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Orange-red dress with sky-blue inserts by Lorian",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "orange-red-dress-with-sky-blue-inserts-by-lorian",
+      "sizes": ["s", "m", "xl"],
+      "price": 1077,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_wnbl-ur.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/3_9787-3d.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 18,
+      "createdAt": "2023-04-13T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s jacket grey by Lorian",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "slug": "women-s-jacket-grey-by-lorian",
+      "sizes": ["s", "m"],
+      "price": 512,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_ybs3-k0.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/2_3br1-bf.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 19,
+      "createdAt": "2023-04-12T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Darkest green Lorian cloth",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "darkest-green-lorian-cloth",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 951,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_a70f-do.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_frvj-l6.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 20,
+      "createdAt": "2023-04-11T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Sleeveless navy-blue cloth by Lorian",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "sleeveless-navy-blue-cloth-by-lorian",
+      "sizes": ["xs", "s", "m", "xl"],
+      "price": 1039,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/1_oznt-ra.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/2_32br-bo.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 21,
+      "createdAt": "2023-04-10T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s jacket Lorian beige color",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "women-s-jacket-lorian-beige-color",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 375,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4091/1_31md-j5.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4091/2_7apy-94.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 22,
+      "createdAt": "2023-04-09T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s black elongated jacket by Lorian",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "women-s-black-elongated-jacket-by-lorian",
+      "sizes": ["s", "m", "l"],
+      "price": 334,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/896/1_owjv-ml.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/896/2_gwqf-8g.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 23,
+      "createdAt": "2023-04-08T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Navy-blue dress by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "navy-blue-dress-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1160,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/1_x3gx-un.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3783/5_ozyp-4b.jpg"
+      ],
+      "category": "dresses"
+    },
+    {
+      "id": 24,
+      "createdAt": "2023-04-07T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s jacket mint color by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "women-s-jacket-mint-color-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l"],
+      "price": 1163,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_vbjh-66.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_scob-kg.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 25,
+      "createdAt": "2023-04-06T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s jacket black by Lorian",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "women-s-jacket-black-by-lorian",
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "price": 563,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3308/1_en8b-qt.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3308/5_ze5y-39.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 26,
+      "createdAt": "2023-04-05T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Lorian jacket blue straight silhouette",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "lorian-jacket-blue-straight-silhouette",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 378,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4094/1_5sb2-0p.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4094/2_xywo-jm.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4094/4_9ytl-zc.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 27,
+      "createdAt": "2023-04-04T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s peach jacket color by Lorian",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "women-s-peach-jacket-color-by-lorian",
+      "sizes": ["xs", "s", "l"],
+      "price": 499,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/1_g5ad-f9.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/2_gkwx-dx.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 28,
+      "createdAt": "2023-04-03T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Lorian jacket night-blue straight silhouette",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "slug": "lorian-jacket-night-blue-straight-silhouette",
+      "sizes": ["m", "l", "s", "xxs"],
+      "price": 1209,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4094/1_5sb2-0p.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4094/2_xywo-jm.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4094/4_9ytl-zc.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 29,
+      "createdAt": "2023-04-02T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Blue women`s jacket by Lorian",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "blue-women-s-jacket-by-lorian",
+      "sizes": ["s", "m", "l"],
+      "price": 618,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4101/1_03bf-9z.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4101/2_25sj-83.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 30,
+      "createdAt": "2023-04-01T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Lorian jacket in gray fitted viscose",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "lorian-jacket-in-gray-fitted-viscose",
+      "sizes": ["xs", "s", "l", "xl"],
+      "price": 1164,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4110/1_arhb-jg.jpg",
+        "https://arber.ua/images/thumbnails/500/748/detailed/4110/2_5bbc-d2.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 31,
+      "createdAt": "2023-03-30T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Orange women`s jacket by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "orange-women-s-jacket-by-lorian",
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "price": 1182,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/1_0q9a-cd.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/3_k9rs-o7.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 32,
+      "createdAt": "2023-03-29T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s jacket by Lorian beige color",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "women-s-jacket-by-lorian-beige-color",
+      "sizes": ["xxs", "s", "m", "l", "xl"],
+      "price": 1087,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4091/1_31md-j5.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4091/2_7apy-94.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 33,
+      "createdAt": "2023-03-28T11:56:41.618Z",
+      "updatedAt": "2023-04-17T11:56:41.618Z",
+      "name": "Women`s jacket by Lorian grey color",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "women-s-jacket-by-lorian-grey-color",
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "price": 805,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_ybs3-k0.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/2_3br1-bf.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 34,
+      "createdAt": "2023-03-27T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s jacket by Lorian black color",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "women-s-jacket-by-lorian-black-color",
+      "sizes": ["xxs", "xs"],
+      "price": 1002,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3308/1_en8b-qt.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3308/5_ze5y-39.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 35,
+      "createdAt": "2023-03-26T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s jacket by Lorian mint color ",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "slug": "women-s-jacket-by-lorian-mint-color-",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1126,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_vbjh-66.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_scob-kg.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 36,
+      "createdAt": "2023-03-25T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s light-black elongated jacket by Lorian",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "women-s-light-black-elongated-jacket-by-lorian",
+      "sizes": ["xs", "s", "m"],
+      "price": 451,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/896/1_owjv-ml.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/896/2_gwqf-8g.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 37,
+      "createdAt": "2023-03-24T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s jacket  by Lorian peach color",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "women-s-jacket--by-lorian-peach-color",
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "price": 1061,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/1_g5ad-f9.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/2_gkwx-dx.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 38,
+      "createdAt": "2023-03-23T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian jacket in gray fitted with viscose",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "lorian-jacket-in-gray-fitted-with-viscose",
+      "sizes": ["xs", "s", "m", "xl"],
+      "price": 291,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4110/1_arhb-jg.jpg",
+        "https://arber.ua/images/thumbnails/500/748/detailed/4110/2_5bbc-d2.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 39,
+      "createdAt": "2023-03-22T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Navy-blue women`s jacket by Lorian",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "slug": "navy-blue-women-s-jacket-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 719,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4101/1_03bf-9z.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4101/2_25sj-83.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 40,
+      "createdAt": "2023-03-21T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Pants Lorian gray widened to the bottom made of viscose",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "pants-lorian-gray-widened-to-the-bottom-made-of-viscose",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1006,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/1_cqtb-ki.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/2_exjl-c5.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/3_ze7h-4d.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 41,
+      "createdAt": "2023-03-20T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Light-orange women`s jacket by Lorian",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "light-orange-women-s-jacket-by-lorian",
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "price": 922,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/1_0q9a-cd.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/1265/3_k9rs-o7.jpg"
+      ],
+      "category": "jackets"
+    },
+    {
+      "id": 42,
+      "createdAt": "2023-03-19T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Black Lorian women`s trousers",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "black-lorian-women-s-trousers",
+      "sizes": ["xxs", "s", "xl"],
+      "price": 475,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4100/1_hnbo-zx.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4100/2_6rm3-hj.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 43,
+      "createdAt": "2023-03-18T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Freedom by Lorian women`s black trousers",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "slug": "freedom-by-lorian-women-s-black-trousers",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 410,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4089/1_kc19-9y.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4089/2_pbpj-3z.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 44,
+      "createdAt": "2023-03-17T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian black trousers narrowed to the bottom",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "lorian-black-trousers-narrowed-to-the-bottom",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 316,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4109/1_vaxg-44.jpg",
+        "https://arber.ua/images/thumbnails/500/748/detailed/4109/2_qrna-rn.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 45,
+      "createdAt": "2023-03-16T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian trousers white tapered to the bottom in cotton",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "lorian-trousers-white-tapered-to-the-bottom-in-cotton",
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "price": 914,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/1_mvmg-jr.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/2_jz9q-7d.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 46,
+      "createdAt": "2023-03-15T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s beige pants by Lorian",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "slug": "women-s-beige-pants-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 525,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4097/1_2v8q-f9.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4097/2_ic15-yx.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 47,
+      "createdAt": "2023-03-14T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian women`s peach-colored pants",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "lorian-women-s-peach-colored-pants",
+      "sizes": ["s", "xl"],
+      "price": 1050,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/1266/1_t0v1-ap.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/1266/2_21xg-sz.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 48,
+      "createdAt": "2023-03-13T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian women`s pants in mint color",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "slug": "lorian-women-s-pants-in-mint-color",
+      "sizes": ["s", "xl"],
+      "price": 1175,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_iiy7-fs.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_azqm-fa.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 49,
+      "createdAt": "2023-03-12T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Black women`s trousers by Lorian",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "black-women-s-trousers-by-lorian",
+      "sizes": ["s", "m", "l"],
+      "price": 516,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4100/1_hnbo-zx.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4100/2_6rm3-hj.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 50,
+      "createdAt": "2023-03-11T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian blue women`s trousers",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "lorian-blue-women-s-trousers",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1226,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_bhds-zy.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_l5oq-jd.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 51,
+      "createdAt": "2023-03-10T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s gray Lorian striped pants",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "slug": "women-s-gray-lorian-striped-pants",
+      "sizes": ["s", "m"],
+      "price": 307,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 52,
+      "createdAt": "2023-03-09T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian light-black trousers narrowed to the bottom",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "lorian-light-black-trousers-narrowed-to-the-bottom",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 1198,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/748/detailed/4109/1_vaxg-44.jpg",
+        "https://arber.ua/images/thumbnails/500/748/detailed/4109/2_qrna-rn.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 53,
+      "createdAt": "2023-03-08T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian trousers tapered to the bottom in cotton white color",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "lorian-trousers-tapered-to-the-bottom-in-cotton-white-color",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 704,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/1_mvmg-jr.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4106/2_jz9q-7d.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 54,
+      "createdAt": "2023-03-07T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Freedom by Lorian women`s light-black trousers",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "slug": "freedom-by-lorian-women-s-light-black-trousers",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 493,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4089/1_kc19-9y.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4089/2_pbpj-3z.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 55,
+      "createdAt": "2023-03-06T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Pants gray widened to the bottom made of viscose by Lorian",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "pants-gray-widened-to-the-bottom-made-of-viscose-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 456,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/1_cqtb-ki.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/2_exjl-c5.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/3_ze7h-4d.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 56,
+      "createdAt": "2023-03-05T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s dark-gray Lorian striped pants",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "women-s-dark-gray-lorian-striped-pants",
+      "sizes": ["xs", "s", "l", "xl"],
+      "price": 298,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 57,
+      "createdAt": "2023-03-04T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s white-beige pants by Lorian",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "women-s-white-beige-pants-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 452,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4097/1_2v8q-f9.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4097/2_ic15-yx.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 58,
+      "createdAt": "2023-03-03T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian light-blue women`s trousers",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "slug": "lorian-light-blue-women-s-trousers",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 415,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_bhds-zy.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_l5oq-jd.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 59,
+      "createdAt": "2023-03-02T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian women`s pants in light-mint color",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "slug": "lorian-women-s-pants-in-light-mint-color",
+      "sizes": ["m", "xl"],
+      "price": 720,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_iiy7-fs.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_azqm-fa.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 60,
+      "createdAt": "2023-03-01T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s peach-colored pants by Lorian",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "women-s-peach-colored-pants-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 552,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/1266/1_t0v1-ap.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/1266/2_21xg-sz.jpg"
+      ],
+      "category": "pants"
+    },
+    {
+      "id": 61,
+      "createdAt": "2023-02-28T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Top Lorian blue free silhouette made of viscose",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "top-lorian-blue-free-silhouette-made-of-viscose",
+      "sizes": ["xs", "xl"],
+      "price": 818,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4105/1_8284-ui.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4105/2_14ao-l4.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 62,
+      "createdAt": "2023-02-27T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Top Lorian green free silhouette made of viscose",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "top-lorian-green-free-silhouette-made-of-viscose",
+      "sizes": ["xs", "m", "xl"],
+      "price": 1002,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/1_x0us-nr.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/2_z07d-wy.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/3_4ops-b8.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 63,
+      "createdAt": "2023-02-26T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Beige top by Lorian",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "beige-top-by-lorian",
+      "sizes": ["s"],
+      "price": 1051,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_t5j2-aa.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_gho9-on.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 64,
+      "createdAt": "2023-02-25T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s black shirt Freedom by Lorian",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "women-s-black-shirt-freedom-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 838,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4091/1_vruq-qo.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4091/2_ec10-4c.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 65,
+      "createdAt": "2023-02-24T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Lorian women`s white shirt",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "slug": "lorian-women-s-white-shirt",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 528,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_ujqi-nv.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/3_s411-iq.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 66,
+      "createdAt": "2023-02-23T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s shirt Lorian peach color",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "slug": "women-s-shirt-lorian-peach-color",
+      "sizes": ["xxs", "s", "m", "xl"],
+      "price": 342,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/1_6hdh-d3.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/2_qwwc-lv.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 67,
+      "createdAt": "2023-02-22T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Shirt Lorian in black with a free silhouette and viscose",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "slug": "shirt-lorian-in-black-with-a-free-silhouette-and-viscose",
+      "sizes": ["l", "xl"],
+      "price": 287,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4115/1_nr25-2a.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4115/2_p99s-nv.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 68,
+      "createdAt": "2023-02-21T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s blouse Lorian black",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "women-s-blouse-lorian-black",
+      "sizes": ["s", "m", "l"],
+      "price": 441,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/1_6dfm-73.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/2_il9z-fk.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 69,
+      "createdAt": "2023-02-20T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s shirt long sleeve by Lorian blue color",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "women-s-shirt-long-sleeve-by-lorian-blue-color",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1049,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3990/1_t282-di.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3990/3_itqu-9m.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 70,
+      "createdAt": "2023-02-19T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s white Lorian shirt with short sleeves",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "women-s-white-lorian-shirt-with-short-sleeves",
+      "sizes": ["xxs", "s"],
+      "price": 674,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_dnvf-3p.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/2_3hsp-8r.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 71,
+      "createdAt": "2023-02-18T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Top by Lorian green-colored free silhouette made of viscose",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "top-by-lorian-green-colored-free-silhouette-made-of-viscose",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 572,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/1_x0us-nr.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/2_z07d-wy.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4114/3_4ops-b8.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 72,
+      "createdAt": "2023-02-17T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Light-beige top by Lorian",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "light-beige-top-by-lorian",
+      "sizes": ["s", "m", "l"],
+      "price": 1263,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_t5j2-aa.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_gho9-on.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 73,
+      "createdAt": "2023-02-16T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s blouse by Lorian black color",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "slug": "women-s-blouse-by-lorian-black-color",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 278,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/1_6dfm-73.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/2_il9z-fk.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 74,
+      "createdAt": "2023-02-15T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s Lorian shirt with short sleeves white-colored",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "women-s-lorian-shirt-with-short-sleeves-white-colored",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 461,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_dnvf-3p.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/2_3hsp-8r.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 75,
+      "createdAt": "2023-02-14T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s light-black shirt Freedom by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "women-s-light-black-shirt-freedom-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l"],
+      "price": 660,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/4091/1_vruq-qo.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/4091/2_ec10-4c.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 76,
+      "createdAt": "2023-02-13T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s shirt by Lorian peach color",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "slug": "women-s-shirt-by-lorian-peach-color",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 1296,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/1_6hdh-d3.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3152/2_qwwc-lv.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 77,
+      "createdAt": "2023-02-12T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Top by Lorian blue-colored free silhouette made of viscose",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "top-by-lorian-blue-colored-free-silhouette-made-of-viscose",
+      "sizes": ["xxs", "xs", "s", "m", "l"],
+      "price": 1147,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4105/1_8284-ui.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4105/2_14ao-l4.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 78,
+      "createdAt": "2023-02-11T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s shirt long sleeve by Lorian navy-blue color",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "women-s-shirt-long-sleeve-by-lorian-navy-blue-color",
+      "sizes": ["xxs", "xs", "s", "m", "l"],
+      "price": 673,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3990/1_t282-di.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3990/3_itqu-9m.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 79,
+      "createdAt": "2023-02-10T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Shirt by Lorian in black with a free silhouette and viscose",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "shirt-by-lorian-in-black-with-a-free-silhouette-and-viscose",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 473,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/666/detailed/4115/1_nr25-2a.jpg",
+        "https://arber.ua/images/thumbnails/500/666/detailed/4115/2_p99s-nv.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 80,
+      "createdAt": "2023-02-09T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s white polo shirt by Lorian",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "women-s-white-polo-shirt-by-lorian",
+      "sizes": ["s", "m"],
+      "price": 283,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_yeub-0c.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/2_acfp-tl.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 81,
+      "createdAt": "2023-02-08T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s black polo shirt by Lorian",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "slug": "women-s-black-polo-shirt-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 693,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_cvqq-so.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_7ndo-9w.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/3_45l9-bo.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 82,
+      "createdAt": "2023-02-07T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s beige polo shirt by Lorian",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "women-s-beige-polo-shirt-by-lorian",
+      "sizes": ["s", "m", "xl"],
+      "price": 687,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3659/1_h6ao-1f.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3659/2_me9x-72.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 83,
+      "createdAt": "2023-02-06T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s orange-red polo shirt by Lorian",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "women-s-orange-red-polo-shirt-by-lorian",
+      "sizes": ["m", "xl"],
+      "price": 761,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_qs07-r5.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_4w19-el.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 84,
+      "createdAt": "2023-02-05T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s white shirt by Lorian",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "slug": "women-s-white-shirt-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 780,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_ujqi-nv.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/3_s411-iq.jpg"
+      ],
+      "category": "shirts"
+    },
+    {
+      "id": 85,
+      "createdAt": "2023-02-04T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s sky-blue polo shirt by Lorian",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "slug": "women-s-sky-blue-polo-shirt-by-lorian",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 953,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/1_zlnb-3s.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/2_n924-ld.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 86,
+      "createdAt": "2023-02-03T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s white polo shirt with navy-blue pieces by Lorian",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "women-s-white-polo-shirt-with-navy-blue-pieces-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1001,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_ftsx-ok.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_tq8u-rd.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 87,
+      "createdAt": "2023-02-02T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s khaki polo shirt by Lorian",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "women-s-khaki-polo-shirt-by-lorian",
+      "sizes": ["xs", "m", "l", "xl"],
+      "price": 957,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/1_8raw-2e.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/2_opnr-t8.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 88,
+      "createdAt": "2023-02-01T11:56:41.619Z",
+      "updatedAt": "2023-04-17T11:56:41.619Z",
+      "name": "Women`s navy-blue polo shirt by Lorian",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "slug": "women-s-navy-blue-polo-shirt-by-lorian",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 886,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_4gzs-lw.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_mti0-qm.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 89,
+      "createdAt": "2023-01-30T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Women`s orange polo shirt by Lorian",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "slug": "women-s-orange-polo-shirt-by-lorian",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 700,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_umx1-0t.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_1f9m-gj.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 90,
+      "createdAt": "2023-01-29T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s white polo shirt",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "slug": "lorian-women-s-white-polo-shirt",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 618,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/1_yeub-0c.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3612/2_acfp-tl.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 91,
+      "createdAt": "2023-01-28T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s beige polo shirt",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "lorian-women-s-beige-polo-shirt",
+      "sizes": ["xl"],
+      "price": 453,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3659/1_h6ao-1f.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3659/2_me9x-72.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 92,
+      "createdAt": "2023-01-27T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s khaki polo shirt",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "slug": "lorian-women-s-khaki-polo-shirt",
+      "sizes": ["m", "xl"],
+      "price": 1076,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/1_8raw-2e.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/2_opnr-t8.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 93,
+      "createdAt": "2023-01-26T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s white polo shirt with navy-blue pieces",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "lorian-women-s-white-polo-shirt-with-navy-blue-pieces",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 350,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_ftsx-ok.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_tq8u-rd.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 94,
+      "createdAt": "2023-01-25T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Women`s blue polo shirt with orange pieces by Lorian",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "slug": "women-s-blue-polo-shirt-with-orange-pieces-by-lorian",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 657,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_gok2-cw.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_jzd9-20.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 95,
+      "createdAt": "2023-01-24T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s sky-blue polo shirt",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "slug": "lorian-women-s-sky-blue-polo-shirt",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 653,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/1_zlnb-3s.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3375/2_n924-ld.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 96,
+      "createdAt": "2023-01-23T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian Women`s blue polo shirt with orange pieces",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "slug": "lorian-women-s-blue-polo-shirt-with-orange-pieces",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 1132,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_gok2-cw.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_jzd9-20.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 97,
+      "createdAt": "2023-01-22T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s orange polo shirt",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "slug": "lorian-women-s-orange-polo-shirt",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 711,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_umx1-0t.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_1f9m-gj.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 98,
+      "createdAt": "2023-01-21T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s black polo shirt",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "slug": "lorian-women-s-black-polo-shirt",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 612,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/1_cvqq-so.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/2_7ndo-9w.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3472/3_45l9-bo.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 99,
+      "createdAt": "2023-01-20T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s orange-red polo shirt",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "slug": "lorian-women-s-orange-red-polo-shirt",
+      "sizes": ["xxs", "xs", "s", "m", "l", "xl"],
+      "price": 308,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_qs07-r5.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_4w19-el.jpg"
+      ],
+      "category": "polo"
+    },
+    {
+      "id": 100,
+      "createdAt": "2023-01-19T11:56:41.620Z",
+      "updatedAt": "2023-04-17T11:56:41.620Z",
+      "name": "Lorian women`s navy-blue polo shirt",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "slug": "lorian-women-s-navy-blue-polo-shirt",
+      "sizes": ["s", "m", "l", "xl"],
+      "price": 1012,
+      "images": [
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/1_4gzs-lw.jpg",
+        "https://arber.ua/images/thumbnails/500/721/detailed/3376/2_mti0-qm.jpg"
+      ],
+      "category": "polo"
+    }
+  ],
+  "totalCount": 100
+}

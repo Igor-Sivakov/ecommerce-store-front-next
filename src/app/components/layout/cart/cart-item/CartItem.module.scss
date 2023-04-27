@@ -1,0 +1,61 @@
+.root {
+  @apply bg-soft-black mb-4 flex items-center gap-3;
+
+  .image {
+    @apply min-w-[70px] w-[70px] h-[95px];
+  }
+
+  .info {
+    @apply mb-3 -mt-2;
+
+    .name {
+      @apply w-32 text-sm truncate font-medium text-white;
+    }
+
+    .price {
+      @apply text-xs font-normal mt-1 text-grey;
+    }
+  }
+
+  .actions {
+    button {
+      @apply p-0 bg-soft-black;
+
+      svg {
+        @apply text-xl fill-white;
+      }
+
+      &:active {
+        svg {
+          @apply translate-y-[1px];
+        }
+      }
+    }
+
+    input {
+      @apply text-white rounded-none;
+
+      &:focus-within {
+        @apply border-red outline-white outline-1;
+      }
+    }
+  }
+}
+
+.delete_btn {
+  @apply flex items-center justify-center ml-3;
+
+  svg {
+    @apply text-lg fill-dark-grey transition-all duration-200;
+  }
+
+  &:hover {
+    svg {
+      @apply fill-hover-red;
+    }
+  }
+
+  &:active {
+    @apply translate-y-[1px];
+  }
+}

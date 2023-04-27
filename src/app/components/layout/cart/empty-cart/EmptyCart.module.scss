@@ -1,0 +1,15 @@
+.root {
+  @apply flex flex-col items-center justify-center h-full;
+
+  img {
+    @apply opacity-80;
+  }
+
+  h4 {
+    @apply text-[#e5ecef] opacity-90 text-xl mt-6 font-normal tracking-wider;
+  }
+
+  p {
+    @apply text-dark-grey text-xs tracking-widest mt-1;
+  }
+}

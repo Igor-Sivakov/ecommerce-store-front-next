@@ -1,0 +1,11 @@
+.root {
+  @apply flex flex-col items-center justify-center pt-[40px] gap-7 px-12;
+
+  .line {
+    @apply bg-grey w-full flex justify-between;
+  }
+
+  @media (max-width: 1208px) {
+    @apply gap-3;
+  }
+}

@@ -1,0 +1,35 @@
+.root {
+  @apply flex items-center mb-4;
+
+  svg {
+    @apply w-[15%] text-[22px];
+  }
+
+  .text {
+    @apply w-[70%];
+
+    h4 {
+      @apply text-white text-[14px] font-bold;
+    }
+
+    p {
+      @apply text-[12px] text-grey;
+    }
+  }
+
+  .delete_btn {
+    @apply w-[15%] flex items-center justify-center;
+
+    svg {
+      @apply fill-dark-grey text-[22px] w-[22px] transition-all duration-300;
+
+      &:hover {
+        @apply fill-soft-red;
+      }
+    }
+
+    &:active {
+      @apply translate-y-[1px];
+    }
+  }
+}

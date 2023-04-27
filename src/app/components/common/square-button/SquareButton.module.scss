@@ -1,0 +1,23 @@
+.root {
+  @apply h-10 w-10 bg-black flex items-center justify-center transition-colors duration-300 relative;
+
+  .icon {
+    @apply fill-[#7D7D7D] transition-all duration-300;
+  }
+
+  .badge {
+    @apply flex h-4 w-4 items-center justify-center rounded-full bg-red p-1 text-[10px] text-white absolute bottom-7 left-7 transition-all duration-300 z-20;
+  }
+
+  &:hover {
+    @apply bg-red;
+
+    .icon {
+      @apply fill-white;
+    }
+
+    .badge {
+      @apply bg-grey text-black;
+    }
+  }
+}

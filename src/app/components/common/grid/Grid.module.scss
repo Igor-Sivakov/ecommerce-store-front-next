@@ -1,0 +1,7 @@
+.column {
+  @apply border-r-2 border-solid border-black h-full;
+}
+
+.row {
+  @apply grid w-full grid-cols-12 border-b-2 border-solid border-black;
+}

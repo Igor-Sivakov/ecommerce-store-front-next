@@ -1,0 +1,123 @@
+.root {
+  @apply w-full min-w-[370px];
+
+  .inputs_wrapper {
+    @apply flex;
+
+    .user_info {
+      @apply w-[50%];
+    }
+
+    .login_info {
+      @apply w-[50%];
+    }
+  }
+
+  .heading {
+    @apply text-white text-[15px] font-bold tracking-wide mb-[12px];
+  }
+
+  .radio_toggler_box {
+    @apply mt-[16px] flex w-fit gap-[60px];
+
+    .radio_btn {
+      @apply text-grey text-sm items-center justify-center flex;
+
+      input {
+        @apply hidden;
+      }
+
+      label {
+        @apply bg-white w-6 h-6 mr-1 rounded-full border-[1px] inline-flex items-center justify-center border-dark-grey cursor-pointer;
+      }
+
+      input:checked + label {
+        @apply border-hover-red;
+
+        div {
+          @apply w-[10px] h-[10px] rounded-full bg-hover-red;
+        }
+      }
+    }
+  }
+
+  .input_container {
+    @apply h-[110px];
+  }
+
+  .label {
+    @apply block text-grey mb-1 text-sm;
+  }
+
+  .input {
+    @apply block text-sm border-2 border-dark-grey bg-soft-black text-white py-2 px-4 w-full max-w-[80%];
+  }
+
+  .error {
+    @apply text-xs leading-5 max-w-[80%] text-soft-red;
+  }
+
+  .buttons {
+    @apply flex items-center justify-center mt-2;
+  }
+
+  .submit {
+    @apply text-white text-[14px] font-bold border border-white py-2 px-12 mb-4 transition-all duration-300;
+
+    &:hover {
+      @apply bg-white text-soft-black;
+    }
+
+    &:active {
+      @apply translate-y-[1px];
+    }
+  }
+
+  .cancel {
+    @apply bg-dark-red text-[14px] font-bold border border-dark-red py-2 px-12 ml-2 mb-4 transition-all duration-300;
+
+    &:hover {
+      @apply bg-soft-black text-dark-red;
+    }
+
+    &:active {
+      @apply translate-y-[1px];
+    }
+  }
+
+  @media (max-width: 699px) {
+    .inputs_wrapper {
+      @apply block;
+
+      .user_info {
+        @apply w-full;
+      }
+
+      .login_info {
+        @apply w-full;
+      }
+
+      .input {
+        @apply block max-w-full;
+      }
+
+      .error {
+        @apply text-[12px] leading-3 max-w-full;
+      }
+    }
+
+    .buttons {
+      @apply mb-8;
+    }
+  }
+
+  @media (max-width: 399px) {
+    .input {
+      @apply w-[335px];
+    }
+
+    .buttons {
+      @apply mr-8;
+    }
+  }
+}

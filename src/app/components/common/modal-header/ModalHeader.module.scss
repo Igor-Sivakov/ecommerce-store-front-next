@@ -1,0 +1,29 @@
+.heading {
+  @apply bg-soft-black flex justify-between;
+
+  .title {
+    @apply flex items-center;
+
+    svg {
+      @apply fill-soft-red;
+    }
+
+    span {
+      @apply text-white ml-2 text-sm;
+    }
+  }
+
+  .close_btn {
+    svg {
+      @apply fill-white transition-all duration-300;
+
+      &:hover {
+        @apply fill-soft-red;
+      }
+    }
+
+    &:active {
+      @apply translate-y-[1px];
+    }
+  }
+}

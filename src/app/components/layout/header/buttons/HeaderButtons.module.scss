@@ -1,0 +1,7 @@
+.root {
+  @apply flex items-center justify-around h-full px-6 relative;
+
+  @media (max-width: 599px) {
+    @apply h-[65px];
+  }
+}

@@ -1,0 +1,118 @@
+.root {
+  @apply min-w-[370px] w-full p-[30px];
+
+  .root_container {
+    @apply w-full max-w-[480px];
+
+    .form_heading {
+      @apply text-white text-[21px] font-bold tracking-wider mb-4;
+    }
+
+    .input_wrapper {
+      @apply h-[100px];
+
+      label {
+        @apply block text-grey mb-1 text-sm;
+      }
+
+      input {
+        @apply block text-sm border-[2px] w-full border-dark-grey bg-soft-black text-white py-2 px-4;
+      }
+    }
+
+    .buttons_wrapper {
+      @apply flex justify-between items-center mt-2;
+
+      .checkbox {
+        @apply text-grey text-sm flex justify-center w-fit;
+
+        input {
+          @apply hidden;
+        }
+
+        label {
+          @apply w-6 h-6 border-[1.5px] border-dark-grey bg-white mr-2 flex items-center justify-center;
+
+          svg {
+            @apply fill-soft-red opacity-0;
+          }
+        }
+
+        input:checked + label {
+          @apply border-soft-red;
+
+          svg {
+            @apply opacity-100;
+          }
+        }
+      }
+
+      .submit {
+        @apply text-soft-black font-extrabold text-[14px] border border-white py-2 px-12 bg-white transition-all duration-300;
+
+        &:hover {
+          @apply bg-soft-black text-white border-white;
+        }
+      }
+    }
+
+    .forgot_password {
+      @apply flex justify-end mt-9;
+
+      a {
+        @apply flex items-center text-dark-grey w-fit text-[14px] transition-all duration-300;
+
+        svg {
+          @apply fill-dark-grey transition-all duration-300;
+        }
+
+        &:hover {
+          @apply text-white;
+
+          svg {
+            @apply fill-white;
+          }
+        }
+      }
+    }
+  }
+}
+
+.error {
+  @apply text-xs leading-5 text-soft-red max-w-[480px];
+}
+
+@media (max-width: 599px) {
+  .root {
+    @apply px-0;
+
+    .root_container {
+      @apply max-w-[480px];
+
+      .input_wrapper {
+        input {
+        }
+      }
+
+      .buttons_wrapper {
+        @apply block mt-0;
+
+        .submit {
+          @apply mt-8 w-full;
+        }
+      }
+    }
+  }
+
+  .error {
+    @apply text-[12px] leading-3 max-w-full;
+  }
+}
+
+@media (max-width: 410px) {
+  .root {
+    .root_container {
+      @apply w-[340px];
+    }
+  }
+}

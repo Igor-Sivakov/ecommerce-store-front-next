@@ -1,0 +1,26 @@
+.root {
+  @apply flex items-center justify-center flex-col px-12;
+  .heading {
+    @apply bg-soft-black max-w-[1120px] w-full pl-4 pr-1 py-1 flex justify-between items-center mt-5 mb-6;
+
+    h2 {
+      @apply text-white uppercase tracking-[0.15em] font-medium text-lg;
+    }
+  }
+
+  .items_container {
+    @apply flex flex-wrap gap-2 max-w-[1120px] min-h-[600px];
+  }
+
+  @media (max-width: 1225px) {
+    .items_container {
+      @apply gap-1;
+    }
+  }
+
+  @media (max-width: 655px) {
+    .items_container {
+      @apply gap-0;
+    }
+  }
+}

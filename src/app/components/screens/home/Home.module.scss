@@ -1,0 +1,7 @@
+.image {
+  @apply bg-dark-red flex justify-center;
+
+  background-blend-mode: multiply;
+  background: url('../../../assets/img/texture.jpg'),
+    linear-gradient(160deg, #c31111 0%, #8f0c0e 100%);
+}

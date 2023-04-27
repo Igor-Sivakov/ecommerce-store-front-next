@@ -1,0 +1,55 @@
+.heading {
+  @apply flex text-xl font-normal tracking-widest items-center justify-between bg-soft-black;
+
+  span {
+    @apply flex items-center text-white;
+
+    svg {
+      @apply ml-2 fill-soft-red;
+    }
+  }
+  .close_btn {
+    svg {
+      @apply text-[20px] fill-white transition-all duration-300 rounded-full;
+
+      &:hover {
+        @apply fill-hover-red;
+      }
+
+      &:active {
+        @apply translate-y-0.5;
+      }
+    }
+  }
+}
+
+.body {
+  @apply bg-soft-black overflow-auto;
+}
+
+.footer {
+  @apply border-t border-white bg-soft-black;
+
+  button {
+    @apply bg-soft-red text-white tracking-widest uppercase rounded-none;
+
+    &:hover {
+      @apply bg-hover-red text-[#fff];
+    }
+
+    &:active {
+      @apply translate-y-0.5;
+    }
+  }
+
+  .total {
+    @apply mr-2;
+
+    > span:first-child {
+      @apply text-grey text-sm mr-[6px];
+    }
+    > span:last-child {
+      @apply text-white font-normal;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+.root {
+  @apply flex border-t-2 border-black;
+
+  .left_block {
+    @apply w-[30%] min-w-[120px] border-r-2 border-black flex items-center justify-center flex-col py-[49.5px];
+    background-blend-mode: multiply;
+    background: url('../../../../assets/img/texture.jpg'), #8f0c0e;
+
+    h1 {
+      @apply text-white text-4xl font-medium;
+      font-family: 'Libre Caslon Display', serif;
+    }
+
+    span {
+      @apply text-white text-xs font-medium opacity-70 tracking-normal;
+    }
+  }
+
+  .right_block {
+    @apply w-[70%] min-w-[220px] flex items-center justify-center px-12 py-10;
+    background-blend-mode: multiply;
+    background: url('../../../../assets/img/texture.jpg'), #8f0c0e;
+
+    h5 {
+      @apply text-white font-black text-xs mb-2;
+    }
+
+    p {
+      @apply text-white text-xs font-medium leading-6 opacity-70 tracking-normal;
+    }
+  }
+
+  @media (max-width: 499px) {
+    .left_block {
+      h1 {
+        @apply text-3xl;
+      }
+    }
+
+    .right_block {
+      @apply px-6;
+    }
+  }
+}

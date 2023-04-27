@@ -1,0 +1,39 @@
+.pagination {
+  @apply flex flex-row justify-center gap-5 w-fit py-[8px] px-[10px] select-none list-[unset] mb-8;
+
+  .pagination-item {
+    @apply flex items-center justify-center text-white rounded-md w-7 h-7;
+
+    &:hover {
+      @apply bg-hover-red cursor-pointer text-[#fff];
+      transition: background-color 0.2s linear;
+
+      svg {
+        @apply fill-[#fff];
+      }
+    }
+  }
+
+  .pagination-item-active {
+    @apply bg-soft-red text-soft-black pointer-events-none;
+    transition: background-color 0.2s linear;
+
+    &:hover {
+      @apply bg-hover-red;
+    }
+  }
+
+  .nav-item {
+    @apply bg-soft-black;
+
+    svg {
+      @apply fill-grey;
+    }
+    &:hover {
+      @apply bg-lightest-black;
+      svg {
+        @apply fill-[#fff];
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+.user_data {
+  @apply flex w-[48%] gap-3 capitalize;
+}
+
+.login_data {
+  @apply flex w-[52%] gap-3;
+}
+
+.options {
+  div {
+    @apply text-dark-grey uppercase mb-2;
+  }
+}
+
+.information {
+  div {
+    @apply text-grey mb-2;
+  }
+
+  .send_password_link {
+    @apply text-xs relative top-1 w-fit cursor-pointer;
+
+    &:hover {
+      @apply text-white;
+    }
+
+    &::after {
+      content: '';
+      @apply absolute left-0 -bottom-1 h-[1px] w-0 bg-white transition-all duration-300;
+    }
+
+    &:hover::after {
+      @apply w-full;
+    }
+  }
+}
+
+@media (max-width: 1099px) {
+  .options {
+    @apply text-sm;
+  }
+
+  .information {
+    div {
+      @apply text-sm;
+    }
+  }
+}
+
+@media (max-width: 769px) {
+  .user_data {
+    @apply w-full;
+  }
+
+  .login_data {
+    @apply w-full;
+  }
+}

@@ -1,0 +1,43 @@
+.root {
+  @apply px-10 py-12 min-w-[340px];
+  background-blend-mode: multiply;
+  background: url('../../../../assets/img/texture.jpg'),
+    linear-gradient(190deg, #c31111 0%, #8f0c0e 100%);
+
+  .hot_sale {
+    @apply text-sm text-white;
+  }
+
+  h1 {
+    @apply text-white text-4xl my-8 font-normal;
+    font-family: 'Playfair Display', serif;
+  }
+
+  .bottom_inner {
+    @apply flex justify-between items-center;
+  }
+
+  .actual_price {
+    @apply text-white text-2xl font-normal;
+  }
+
+  .old_price {
+    @apply line-through text-white text-xs  opacity-60 ml-2.5;
+  }
+
+  .button {
+    @apply text-white text-sm h-6 border-b border-white/25 transition-colors duration-300;
+
+    &:hover {
+      @apply border-b-2  border-white;
+    }
+  }
+}
+
+@media (max-width: 499px) {
+  .root {
+    h1 {
+      @apply text-2xl my-4;
+    }
+  }
+}
